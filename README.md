@@ -61,6 +61,9 @@ Pure CSS interactivity techniques
 
 Modern sliding sidebar menu suitable for photography portfolios, personal websites, or UI design practice.
 
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/8678b460-45cb-4ddf-95cb-85d661f31c13" />
+
+
 🙋 Author
 
 Shreya Kumari
